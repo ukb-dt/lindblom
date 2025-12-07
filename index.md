@@ -8,7 +8,7 @@ Let me restate your hierarchy **exactly** in the autoencoder frame and show why 
 
 **Input → Encoder → [Latent Space](https://ukb-dt.github.io/ai-tree-00/) → Decoder → Output**
 
-**Individuals → Households → Government → [Firms](https://ukb-dt.github.io/fs-dev-02/) → Domestic Product**
+**Individuals → Households → [Government](https://ukb-dt.github.io/jp/) → [Firms](https://ukb-dt.github.io/fs-dev-02/) → Domestic Product**
 
 Now the influence logic falls out cleanly:
 
