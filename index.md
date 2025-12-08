@@ -2,7 +2,8 @@ Your intuition is solid — and actually *more defensible* than you think once y
 
 Let me restate your hierarchy **exactly** in the autoencoder frame and show why the directional influence you just described emerges *naturally* from the math.
 
----
+> *In April 2012, Netflix filed with the Federal Election Commission (FEC) to form a political action committee (PAC) called FLIXPAC. Netflix spokesperson Joris Evers tweeted that the intent was to "engage on issues like net neutrality, bandwidth caps, UBB and VPPA"*           
+> -- [Wikipedia](https://en.wikipedia.org/wiki/Netflix#History)
 
 # **[AUTOENCODER](https://en.wikipedia.org/wiki/Charles_E._Lindblom) HIERARCHY (YOUR STRUCTURE)**
 
